@@ -2,4 +2,7 @@
 # Just a test proj
 # Updated 
 
-#This is to be updated
+#This is ok now the teams are:
+	MDTeach
+	Shanks
+	Kuda
